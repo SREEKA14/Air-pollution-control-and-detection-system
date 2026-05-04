@@ -1,0 +1,285 @@
+state,city,station,status
+Andaman and Nicobar,Sri Vijaya Puram,"Police Line, Sri Vijaya Puram - ANPCC",Inactive
+Andhra Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",Live
+Andhra Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",Live
+Andhra Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",Live
+Andhra Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",Live
+Andhra Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",Live
+Andhra Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",Live
+Andhra Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",Live
+Andhra Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",Live
+Andhra Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",Live
+Arunachal Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",Live
+Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",Live
+Assam,Guwahati,"IITG, Guwahati - PCBA",Live
+Assam,Nagaon,"Christianpatty, Nagaon - PCBA",Live
+Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",Live
+Assam,Silchar,"Tarapur, Silchar - PCBA",Live
+Assam,Sivasagar,"Girls College, Sivasagar - PCBA",Live
+Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",Live
+Bihar,Arrah,"New DM Office, Arrah - BSPCB",Live
+Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",Live
+Bihar,Begusarai,"Lohiyanagar, Begusarai - BSPCB",Live
+Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",Live
+Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",Live
+Bihar,Buxar,"Charitra Van, Buxar - BSPCB",Live
+Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",Live
+Bihar,Darbhanga,"Town Hall - Lal Bagh, Darbhanga - BSPCB",Inactive
+Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",Live
+Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",Live
+Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",Live
+Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",Live
+Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",Live
+Bihar,Munger,"Town Hall, Munger - BSPCB",Live
+Bihar,Muzaffarpur,"DRM Office Danapur, Patna - BSPCB",Live
+Bihar,Patna,"Muradpur, Patna - BSPCB",Live
+Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",Live
+Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",Live
+Bihar,Saharsa,"Police Line, Saharsa - BSPCB",Live
+Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",Delay
+Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",Live
+Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",Live
+Chhattisgarh,Chandigarh,"32Bungalows, Bhilai - CECB",Live
+Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",Live
+Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",Live
+Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",Live
+Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",Live
+Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",Live
+Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",Live
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",Live
+Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",Live
+Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",Live
+Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",Live
+Gujarat,Surat,"Science Center, Surat - SMC",Live
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",Live
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",Live
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",Live
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",Live
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",Live
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",Delay
+Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",Live
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",Live
+Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",Inactive
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",Live
+Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",Live
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",Live
+Haryana,Jind,"Police Lines, Jind - HSPCB",Live
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",Live
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",Live
+Haryana,Kurukshetra ,"Sector-7, Kurukshetra - HSPCB",Live
+Haryana,Mandikhera,"General Hospital, Mandikhera(Nuh) - HSPCB",Live
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",Live
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",Live
+Haryana,Palwal ,"Shyam Nagar, Palwal - HSPCB",Live
+Haryana,Panchgaon,"Amity University, Panchgaon - IITM",Live
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",Live
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",Live
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",Delay
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",Live
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",Live
+Haryana,Yamuna Nagar,"Gobind Pura, Yamuna Nagar - HSPCB",Live
+Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",Live
+Jammu and Kashmir,Pampore,"Khrew, Pampore - JKPCC",Live
+Jharkhand,Srinagar,"Sardar Patel Nagar, Dhanbad - JSPCB",Live
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",Inactive
+Jharkhand,Pathardih,"Mohalbani Ghat, Pathardih - DMC",Inactive
+Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",Live
+Karnataka,Belgaum,"Ramteerth Nagar, Belgaum - KSPCB",Delay
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",Delay
+Karnataka,Bidar,"Naubad, Bidar - KSPCB",Inactive
+Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",Live
+Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",Delay
+Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",Live
+Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",Live
+Karnataka,Dharwad,"Kalabhavan, Dharwad - KSPCB",Live
+Karnataka,Gadag,"Panchal Nagar, Gadag - KSPCB",Inactive
+Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",Inactive
+Karnataka,Haveri,"Ashwini Nagar, Haveri - KSPCB",Inactive
+Karnataka,Hubballi,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",Live
+Karnataka,Karwar,"KHB Colony, Karwar - KSPCB",Live
+Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",Inactive
+Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",Live
+Karnataka,Madikeri,"Stuart Hill, Madikeri - KSPCB",Live
+Karnataka,Mangalore,"Kadri, Mangalore - KSPCB",Inactive
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",Live
+Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",Inactive
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",Delay
+Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",Live
+Karnataka,Tumakuru,"Thimmalapura, Tumakuru - KSPCB",Delay
+Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",Inactive
+Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",Live
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",Live
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",Live
+Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",Inactive
+Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",Delay
+Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",Inactive
+Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",Live
+Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",Inactive
+Kerala,Thrissur,"Corporation Ground, Thrissur - Kerala PCB",Delay
+Madhya Pradesh,Thiruvananthapuram,"Idgah Hills, Bhopal - MPPCB",Live
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",Live
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",Live
+Madhya Pradesh,Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",Inactive
+Madhya Pradesh,Indore,"Regional Park, Indore - IMC",Live
+Madhya Pradesh,Jabalpur,"Suhagi, Jabalpur - JMC",Live
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",Live
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",Live
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",Live
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",Live
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",Live
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",Live
+Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",Live
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",Inactive
+Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",Live
+Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",Live
+Maharashtra,Amravati,"More Chowk Waluj, Aurangabad - MPCB",Live
+Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",Live
+Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",Live
+Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",Live
+Maharashtra,Boisar,"Khaira, Boisar - MPCB",Live
+Maharashtra,Chandrapur,"Chauhan Colony, Chandrapur - MPCB",Live
+Maharashtra,Dhule,"Deopur, Dhule - MPCB",Live
+Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",Live
+Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",Live
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",Inactive
+Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",Live
+Maharashtra,Latur,"Sawe Wadi, Latur - MPCB",Live
+Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",Live
+Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",Live
+Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",Live
+Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",Live
+Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",Live
+Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",Live
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",Live
+Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",Inactive
+Maharashtra,Parbhani,"Masoom Colony, Parbhani - MPCB",Live
+Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",Live
+Maharashtra,Pune,"Alandi, Pune - IITM",Inactive
+Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",Live
+Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",Live
+Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",Live
+Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",Live
+Maharashtra,Virar,"Bolinj, Virar - MPCB",Live
+Manipur,Imphal,"DM College of Science, Imphal - Manipur PCB",Inactive
+Meghalaya,Shillong,"JN Stadium, Shillong - Meghalaya PCB",Live
+Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",Live
+Nagaland,Kohima,"PWD Junction, Kohima - NPCB",Live
+Odisha,Angul,"Hakimapada, Angul - OSPCB",Live
+Odisha,Balasore,"Kalidaspur, Balasore - OSPCB",Live
+Odisha,Barbil,"Forest Office, Barbil - OSPCB",Live
+Odisha,Baripada,"Meher Colony, Baripada - OSPCB",Delay
+Odisha,Bhubaneswar,"Lingraj Mandir, Bhubaneswar - OSPCB",Live
+Odisha,Bileipada,"Tata Township, Bileipada - OSPCB",Live
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",Live
+Odisha,Byasanagar,"Ferro Chrome Colony, Byasanagar - OSPCB",Live
+Odisha,Cuttack,"CDA Area, Cuttack - OSPCB",Live
+Odisha,Keonjhar,"Jagamohanpur, Keonjhar - OSPCB",Live
+Odisha,Nayagarh,"Dabuna, Nayagarh - OSPCB",Live
+Odisha,Rairangpur,"Divisional Forest Office, Rairangpur - OSPCB",Live
+Odisha,Rourkela,"Fertilizer Township, Rourkela - OSPCB",Live
+Odisha,Suakati,"OMC Colony, Suakati - OSPCB",Live
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",Live
+Odisha,Tensa,"Barsua Iron Ore Mines, Tensa - OSPCB",Live
+Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",Live
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",Live
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",Live
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",Live
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",Delay
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",Live
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",Live
+Punjab,Patiala,"Model Town, Patiala - PPCB",Live
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",Live
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",Live
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",Live
+Rajasthan,Banswara,"Rati Talai, Banswara - RSPCB",Live
+Rajasthan,Baran,"Bamboliya, Baran - RSPCB",Live
+Rajasthan,Barmer,"Railway Colony, Barmer - RSPCB",Live
+Rajasthan,Bharatpur,"Krishna Nagar, Bharatpur - RSPCB",Live
+Rajasthan,Bhilwara,"Pratap Nagar, Bhilwara - RSPCB",Live
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",Live
+Rajasthan,Bikaner,"MM Ground, Bikaner - RSPCB",Live
+Rajasthan,Bundi,"New Colony, Bundi - RSPCB",Live
+Rajasthan,Chittorgarh,"Shastri Nagar, Chittorgarh - RSPCB",Live
+Rajasthan,Churu,"Subash Chowk, Churu - RSPCB",Live
+Rajasthan,Dausa,"Khatikan Mohalla, Dausa - RSPCB",Live
+Rajasthan,Dholpur,"Raja Ganj, Dholpur - RSPCB",Live
+Rajasthan,Dungarpur,"Bhoiwada, Dungarpur - RSPCB",Live
+Rajasthan,Hanumangarh,"Housing Board, Hanumangarh - RSPCB",Live
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",Live
+Rajasthan,Jaisalmer,"Sadar Bazar, Jaisalmer - RSPCB",Live
+Rajasthan,Jalore,"Mudtra Sili, Jalore - RSPCB",Live
+Rajasthan,Jhalawar,"Rajlaxmi Nagar, Jhalawar - RSPCB",Live
+Rajasthan,Jhunjhunu,"Indra Nagar, Jhunjhunu - RSPCB",Live
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",Live
+Rajasthan,Karauli,"Satyawati Vihar, Karauli - RSPCB",Live
+Rajasthan,Kota,"Dhanmandi, Kota - RSPCB",Live
+Rajasthan,Nagaur,"Karni Colony, Nagaur - RSPCB",Live
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",Live
+Rajasthan,Pratapgarh,"Pragati Nagar, Pratapgarh - RSPCB",Live
+Rajasthan,Rajsamand,"Dhoinda, Rajsamand - RSPCB",Live
+Rajasthan,Sawai Madhopur,"Sahu Nagar, Sawai Madhopur - RSPCB",Live
+Rajasthan,Sikar,"Radhakishan Pura, Sikar - RSPCB",Live
+Rajasthan,Sirohi,"Vedhaynath Colony, Sirohi - RSPCB",Live
+Rajasthan,Sri Ganganagar,"Old City, Sri Ganganagar - RSPCB",Live
+Rajasthan,Tonk,"Shastri Nagar, Tonk - RSPCB",Live
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",Live
+Sikkim,Gangtok,"Zero Point GICI, Gangtok - SSPCB",Inactive
+Tamil Nadu,Ariyalur,"Keelapalur, Ariyalur - TNPCB",Inactive
+Tamil Nadu,Chengalpattu,"Crescent University, Chengalpattu - TNPCB",Inactive
+Tamil Nadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",Inactive
+Tamil Nadu,Coimbatore,"PSG College of Arts and Science, Coimbatore - TNPCB",Inactive
+Tamil Nadu,Cuddalore,"Kudikadu, Cuddalore - TNPCB",Live
+Tamil Nadu,Dindigul,"Mendonsa Colony, Dindigul - TNPCB",Inactive
+Tamil Nadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",Live
+Tamil Nadu,Hosur,"SIPCOT Phase-1, Hosur - TNPCB",Inactive
+Tamil Nadu,Kanchipuram,"Kilambi, Kanchipuram - TNPCB",Inactive
+Tamil Nadu,Karur,"Kamadenu Nagar, Karur - TNPCB",Live
+Tamil Nadu,Madurai,"Uchapatti, Madurai - TNPCB",Inactive
+Tamil Nadu,Nagapattinam,"Velippalayam, Nagapattinam - TNPCB",Inactive
+Tamil Nadu,Namakkal,"Ponnusamy Nagar, Namakkal - TNPCB",Inactive
+Tamil Nadu,Ooty,"Bombay Castel, Ooty - TNPCB",Live
+Tamil Nadu,Palkalaiperur,"Bharathidasan University, Palkalaiperur - TNPCB",Inactive
+Tamil Nadu,Perundurai,"SIPCOT Industrial Park, Perundurai - TNPCB",Live
+Tamil Nadu,Pudukottai,"SIPCOT Nathampannai, Pudukottai - TNPCB",Live
+Tamil Nadu,Ramanathapuram,"Chalai Bazaar, Ramanathapuram - TNPCB",Inactive
+Tamil Nadu,Ranipet,"VOC Nagar_SIPCOT, Ranipet - TNPCB",Inactive
+Tamil Nadu,Salem,"Sona College of Technology, Salem - TNPCB",Live
+Tamil Nadu,Thanjavur,"Parisutham Nagar, Thanjavur - TNPCB",Inactive
+Tamil Nadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",Live
+Tamil Nadu,Tiruchirappalli,"St Joseph College, Tiruchirappalli - TNPCB",Inactive
+Tamil Nadu,Tirunelveli,"Municipal Corporation Office, Tirunelveli - TNPCB",Inactive
+Tamil Nadu,Tirupur,"Kumaran College, Tirupur - TNPCB",Inactive
+Tamil Nadu,Vellore,"Vasanthapuram, Vellore - TNPCB",Inactive
+Tamil Nadu,Virudhunagar,"Collectorate Office, Virudhunagar - TNPCB",Live
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",Live
+Tripura,Agartala,"Bardowali, Agartala - Tripura SPCB",Live
+Uttar Pradesh,Agra,"Manoharpur, Agra - UPPCB",Live
+Uttar Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",Inactive
+Uttar Pradesh,Bareilly,"Civil Lines, Bareilly - UPPCB",Live
+Uttar Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",Live
+Uttar Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",Live
+Uttar Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",Live
+Uttar Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",Live
+Uttar Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",Live
+Uttar Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",Live
+Uttar Pradesh,Jhansi,"Shivaji Nagar, Jhansi - UPPCB",Live
+Uttar Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",Live
+Uttar Pradesh,Khurja,"Kalindi Kunj, Khurja - UPPCB",Live
+Uttar Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",Live
+Uttar Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",Live
+Uttar Pradesh,Moradabad,"Buddhi Vihar, Moradabad - UPPCB",Live
+Uttar Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",Live
+Uttar Pradesh,Noida,"Sector - 125, Noida - UPPCB",Live
+Uttar Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",Live
+Uttar Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",Live
+Uttar Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",Live
+Uttarakhand,Dehradun,"Doon University, Dehradun - UKPCB",Live
+Uttarakhand,Kashipur,"Govt. Girls Inter College, Kashipur - UKPCB",Live
+Uttarakhand,Rishikesh,"Shivaji Nagar, Rishikesh - UKPCB",Live
+West Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",Live
+West Bengal,Barrackpore,"SVSPA Campus, Barrackpore - WBPCB",Live
+West Bengal,Durgapur,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",Live
+West Bengal,Haldia,"Priyambada Housing Estate, Haldia - WBPCB",Live
+West Bengal,Howrah,"Belur Math, Howrah - WBPCB",Live
+West Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",Live
+West Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",Live

@@ -1,0 +1,463 @@
+state,city,station,aqi,aqi_category
+Andhra Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",127,MODERATE
+Andhra Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",174,MODERATE
+Andhra Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",115,MODERATE
+Andhra Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",166,MODERATE
+Andhra Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",229,POOR
+Andhra Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",116,MODERATE
+Andhra Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",99,SATISFACTORY
+Andhra Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",129,MODERATE
+Andhra Pradesh,,"Kanuru, Vijayawada - APPCB",104,MODERATE
+Andhra Pradesh,,"Rajiv Nagar, Vijayawada - APPCB",161,MODERATE
+Andhra Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",203,POOR
+Arunachal Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",115,MODERATE
+Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",167,MODERATE
+Assam,,"LGBI Airport, Guwahati - PCBA",69,SATISFACTORY
+Assam,,"Pan Bazaar, Guwahati - PCBA",36,GOOD
+Assam,Nagaon,"Christianpatty, Nagaon - PCBA",143,MODERATE
+Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",114,MODERATE
+Assam,Silchar,"Tarapur, Silchar - PCBA",63,SATISFACTORY
+Assam,Sivasagar,"Girls College, Sivasagar - PCBA",55,SATISFACTORY
+Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",131,MODERATE
+Bihar,Arrah,"New DM Office, Arrah - BSPCB",65,SATISFACTORY
+Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",102,MODERATE
+Bihar,Begusarai,"Lohiyanagar, Begusarai - BSPCB",146,MODERATE
+Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",121,MODERATE
+Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",105,MODERATE
+Bihar,,"Mayaganj, Bhagalpur - BSPCB",136,MODERATE
+Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",73,SATISFACTORY
+Bihar,Buxar,"Charitra Van, Buxar - BSPCB",68,SATISFACTORY
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",55,SATISFACTORY
+Bihar,,"Kareemganj, Gaya - BSPCB",97,SATISFACTORY
+Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",108,MODERATE
+Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",154,MODERATE
+Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",77,SATISFACTORY
+Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",121,MODERATE
+Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",104,MODERATE
+Bihar,Munger,"Town Hall, Munger - BSPCB",107,MODERATE
+Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",97,SATISFACTORY
+Bihar,,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",98,SATISFACTORY
+Bihar,,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",114,MODERATE
+Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",102,MODERATE
+Bihar,,"Govt. High School Shikarpur, Patna - BSPCB",123,MODERATE
+Bihar,,"IGSC Planetarium Complex, Patna - BSPCB",65,SATISFACTORY
+Bihar,,"Muradpur, Patna - BSPCB",110,MODERATE
+Bihar,,"Samanpura, Patna - BSPCB",82,SATISFACTORY
+Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",159,MODERATE
+Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",92,SATISFACTORY
+Bihar,Saharsa,"Police Line, Saharsa - BSPCB",134,MODERATE
+Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",96,SATISFACTORY
+Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",72,SATISFACTORY
+Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",80,SATISFACTORY
+Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",169,MODERATE
+Chandigarh,,"Sector-25, Chandigarh - CPCC",139,MODERATE
+Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",74,SATISFACTORY
+Chhattisgarh,,"Civic Center, Bhilai - Bhilai Steel Plant",69,SATISFACTORY
+Chhattisgarh,,"Hathkhoj, Bhilai - CECB",61,SATISFACTORY
+Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",104,MODERATE
+Chhattisgarh,Korba,"Rampur, Korba - CECB",70,SATISFACTORY
+Chhattisgarh,,"Urja Nagar, Korba - CECB",72,SATISFACTORY
+Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",87,SATISFACTORY
+Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",88,SATISFACTORY
+Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",104,MODERATE
+Chhattisgarh,,"Bhatagaon New ISBT, Raipur - CECB",79,SATISFACTORY
+Chhattisgarh,,"Krishak Nagar, Raipur - CECB",79,SATISFACTORY
+Chhattisgarh,,"Siltara Phase-II, Raipur - CECB",88,SATISFACTORY
+Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",108,MODERATE
+Delhi,Delhi,"Alipur, Delhi - DPCC",314,VERY POOR
+Delhi,,"Anand Vihar, Delhi - DPCC",352,VERY POOR
+Delhi,,"Ashok Vihar, Delhi - DPCC",334,VERY POOR
+Delhi,,"Aya Nagar, Delhi - IMD",232,POOR
+Delhi,,"Bawana, Delhi - DPCC",286,POOR
+Delhi,,"Burari Crossing, Delhi - IMD",271,POOR
+Delhi,,"CRRI Mathura Road, Delhi - IMD",276,POOR
+Delhi,,"Chandni Chowk, Delhi - IITM",358,VERY POOR
+Delhi,,"DTU, Delhi - CPCB",339,VERY POOR
+Delhi,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",333,VERY POOR
+Delhi,,"Dwarka-Sector 8, Delhi - DPCC ",299,POOR
+Delhi,,"IGI Airport (T3), Delhi - IMD",184,MODERATE
+Delhi,,"IHBAS, Dilshad Garden, Delhi - CPCB",306,VERY POOR
+Delhi,,"IIT Delhi, Delhi - IITM",234,POOR
+Delhi,,"ITO, Delhi - CPCB",309,VERY POOR
+Delhi,,"Jahangirpuri, Delhi - DPCC",361,VERY POOR
+Delhi,,"Jawaharlal Nehru Stadium, Delhi - DPCC",309,VERY POOR
+Delhi,,"Lodhi Road, Delhi - IMD",218,POOR
+Delhi,,"Major Dhyan Chand National Stadium, Delhi - DPCC",284,POOR
+Delhi,,"Mandir Marg, Delhi - DPCC",222,POOR
+Delhi,,"Mundka, Delhi - DPCC",327,VERY POOR
+Delhi,,"NSIT Dwarka, Delhi - CPCB",176,MODERATE
+Delhi,,"Najafgarh, Delhi - DPCC",234,POOR
+Delhi,,"Narela, Delhi - DPCC",335,VERY POOR
+Delhi,,"Nehru Nagar, Delhi - DPCC",343,VERY POOR
+Delhi,,"North Campus, DU, Delhi - IMD",289,POOR
+Delhi,,"Okhla Phase-2, Delhi - DPCC",319,VERY POOR
+Delhi,,"Patparganj, Delhi - DPCC",322,VERY POOR
+Delhi,,"Punjabi Bagh, Delhi - DPCC",327,VERY POOR
+Delhi,,"Pusa, Delhi - DPCC",330,VERY POOR
+Delhi,,"R K Puram, Delhi - DPCC",320,VERY POOR
+Delhi,,"Rohini, Delhi - DPCC",361,VERY POOR
+Delhi,,"Sirifort, Delhi - CPCB",326,VERY POOR
+Delhi,,"Sonia Vihar, Delhi - DPCC",320,VERY POOR
+Delhi,,"Sri Aurobindo Marg, Delhi - DPCC",261,POOR
+Delhi,,"Vivek Vihar, Delhi - DPCC",333,VERY POOR
+Delhi,,"Wazirpur, Delhi - DPCC",346,VERY POOR
+Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",118,MODERATE
+Gujarat,,"Gyaspur, Ahmedabad - IITM",140,MODERATE
+Gujarat,,"Maninagar, Ahmedabad - GPCB",137,MODERATE
+Gujarat,,"Raikhad, Ahmedabad - IITM",134,MODERATE
+Gujarat,,"Rakhial, Ahmedabad - IITM",122,MODERATE
+Gujarat,,"SAC ISRO Bopal, Ahmedabad - IITM",130,MODERATE
+Gujarat,,"SAC ISRO Satellite, Ahmedabad - IITM",81,SATISFACTORY
+Gujarat,,"SVPI Airport Hansol, Ahmedabad - IITM",121,MODERATE
+Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",104,MODERATE
+Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",133,MODERATE
+Gujarat,,"IIPHG Lekawada, Gandhinagar - IITM",104,MODERATE
+Gujarat,,"Sector-10, Gandhinagar - GPCB",93,SATISFACTORY
+Gujarat,Surat,"Science Center, Surat - SMC",118,MODERATE
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",104,MODERATE
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",178,MODERATE
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",114,MODERATE
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",183,MODERATE
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",249,POOR
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",93,SATISFACTORY
+Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",275,POOR
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",321,VERY POOR
+Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",212,POOR
+Haryana,,"Sector 11, Faridabad - HSPCB",217,POOR
+Haryana,,"Sector 30, Faridabad - HSPCB",225,POOR
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",134,MODERATE
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",279,POOR
+Haryana,,"Sector-51, Gurugram - HSPCB",326,VERY POOR
+Haryana,,"Teri Gram, Gurugram - HSPCB",311,VERY POOR
+Haryana,,"Vikas Sadan, Gurugram - HSPCB",411,VERY POOR
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",65,SATISFACTORY
+Haryana,Jind,"Police Lines, Jind - HSPCB",85,SATISFACTORY
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",106,MODERATE
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",199,MODERATE
+Haryana,Kurukshetra ,"Sector-7, Kurukshetra - HSPCB",182,MODERATE
+Haryana,Mandikhera,"General Hospital, Mandikhera(Nuh) - HSPCB",113,MODERATE
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",210,POOR
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",283,POOR
+Haryana,Palwal ,"Shyam Nagar, Palwal - HSPCB",86,SATISFACTORY
+Haryana,Panchgaon,"Amity University, Panchgaon - IITM",76,SATISFACTORY
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",178,MODERATE
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",230,POOR
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",107,MODERATE
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",117,MODERATE
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",194,MODERATE
+Haryana,Yamuna Nagar,"Gobind Pura, Yamuna Nagar - HSPCB",107,MODERATE
+Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",277,POOR
+Jammu and Kashmir,Pampore,"Khrew, Pampore - JKPCC",79,SATISFACTORY
+Jammu and Kashmir,Srinagar,"Khunmoh, Srinagar - JKPCC",76,SATISFACTORY
+Jammu and Kashmir,,"Rajbagh, Srinagar - JKPCC",49,GOOD
+Jharkhand,,"Sardar Patel Nagar, Dhanbad - JSPCB",163,MODERATE
+Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",53,SATISFACTORY
+Karnataka,Belgaum,"Ramteerth Nagar, Belgaum - KSPCB",98,SATISFACTORY
+Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",109,MODERATE
+Karnataka,,"BWSSB Kadabesanahalli, Bengaluru - CPCB",159,MODERATE
+Karnataka,,"Bapuji Nagar, Bengaluru - KSPCB",124,MODERATE
+Karnataka,,"Hebbal, Bengaluru - KSPCB",104,MODERATE
+Karnataka,,"Hombegowda Nagar, Bengaluru - KSPCB",66,SATISFACTORY
+Karnataka,,"Jayanagar 5th Block, Bengaluru - KSPCB",108,MODERATE
+Karnataka,,"Jigani, Bengaluru - KSPCB",91,SATISFACTORY
+Karnataka,,"Kasturi Nagar, Bengaluru - KSPCB",95,SATISFACTORY
+Karnataka,,"Peenya, Bengaluru - CPCB",101,MODERATE
+Karnataka,,"RVCE-Mailasandra, Bengaluru - KSPCB",142,MODERATE
+Karnataka,,"Sanegurava Halli, Bengaluru - KSPCB",68,SATISFACTORY
+Karnataka,,"Silk Board, Bengaluru - KSPCB",116,MODERATE
+Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",45,GOOD
+Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",44,GOOD
+Karnataka,Dharwad,"Kalabhavan, Dharwad - KSPCB",103,MODERATE
+Karnataka,,"Lingaraj Nagar, Hubballi - KSPCB",60,SATISFACTORY
+Karnataka,,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",62,SATISFACTORY
+Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",72,SATISFACTORY
+Karnataka,Madikeri,"Stuart Hill, Madikeri - KSPCB",52,SATISFACTORY
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",76,SATISFACTORY
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",93,SATISFACTORY
+Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",67,SATISFACTORY
+Karnataka,Tumakuru,"Thimmalapura, Tumakuru - KSPCB",128,MODERATE
+Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",42,GOOD
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",143,MODERATE
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",84,SATISFACTORY
+Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",172,MODERATE
+Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",134,MODERATE
+Kerala,,"Plammoodu, Thiruvananthapuram - Kerala PCB",66,SATISFACTORY
+Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",194,MODERATE
+Madhya Pradesh,,"Paryavaran Parisar, Bhopal - MPPCB",177,MODERATE
+Madhya Pradesh,,"T T Nagar, Bhopal - MPPCB",235,POOR
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",17,GOOD
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",93,SATISFACTORY
+Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",217,POOR
+Madhya Pradesh,,"Deen Dayal Nagar, Gwalior - MPPCB",235,POOR
+Madhya Pradesh,,"Maharaj Bada, Gwalior - MPPCB",221,POOR
+Madhya Pradesh,Indore,"Airport Area, Indore - IMC",180,MODERATE
+Madhya Pradesh,,"Chhoti Gwaltoli, Indore - MPPCB",120,MODERATE
+Madhya Pradesh,,"Residency Area, Indore - IMC",59,SATISFACTORY
+Madhya Pradesh,Jabalpur,"Govindh Bhavan Colony, Jabalpur - JMC",99,SATISFACTORY
+Madhya Pradesh,,"Gupteshwar, Jabalpur - JMC",97,SATISFACTORY
+Madhya Pradesh,,"Marhatal, Jabalpur - MPPCB",154,MODERATE
+Madhya Pradesh,,"Suhagi, Jabalpur - JMC",120,MODERATE
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",118,MODERATE
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",61,SATISFACTORY
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",256,POOR
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",227,POOR
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",119,MODERATE
+Madhya Pradesh,Sagar,"Civil Lines, Sagar - MPPCB",127,MODERATE
+Madhya Pradesh,,"Deen Dayal Nagar, Sagar - MPPCB",103,MODERATE
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",70,SATISFACTORY
+Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",246,POOR
+Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",116,MODERATE
+Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",101,MODERATE
+Maharashtra,Amravati,"Shivneri Colony, Amravati - MPCB",91,SATISFACTORY
+Maharashtra,,"Shri Shivaji Science College, Amravati - MPCB",115,MODERATE
+Maharashtra,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",213,POOR
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",113,MODERATE
+Maharashtra,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",208,POOR
+Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",150,MODERATE
+Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",125,MODERATE
+Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",142,MODERATE
+Maharashtra,Boisar,"Khaira, Boisar - MPCB",128,MODERATE
+Maharashtra,Chandrapur,"Chauhan Colony, Chandrapur - MPCB",163,MODERATE
+Maharashtra,,"MIDC Khutala, Chandrapur - MPCB",112,MODERATE
+Maharashtra,Dhule,"Deopur, Dhule - MPCB",148,MODERATE
+Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",119,MODERATE
+Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",214,POOR
+Maharashtra,,"Pimpleshwar Mandir, Kalyan - MPCB",164,MODERATE
+Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",93,SATISFACTORY
+Maharashtra,Latur,"Sawe Wadi, Latur - MPCB",111,MODERATE
+Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",126,MODERATE
+Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",123,MODERATE
+Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",138,MODERATE
+Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",151,MODERATE
+Maharashtra,,"Bandra Kurla Complex, Mumbai - MPCB",141,MODERATE
+Maharashtra,,"Borivali East, Mumbai - IITM",129,MODERATE
+Maharashtra,,"Borivali East, Mumbai - MPCB",117,MODERATE
+Maharashtra,,"Byculla, Mumbai - BMC",166,MODERATE
+Maharashtra,,"Chakala-Andheri East, Mumbai - IITM",145,MODERATE
+Maharashtra,,"Chembur, Mumbai - MPCB",124,MODERATE
+Maharashtra,,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",168,MODERATE
+Maharashtra,,"Deonar, Mumbai - IITM",147,MODERATE
+Maharashtra,,"Ghatkopar, Mumbai - BMC",125,MODERATE
+Maharashtra,,"Kandivali East, Mumbai - MPCB",128,MODERATE
+Maharashtra,,"Kherwadi_Bandra East, Mumbai - MPCB",137,MODERATE
+Maharashtra,,"Khindipada-Bhandup West, Mumbai - IITM",117,MODERATE
+Maharashtra,,"Kurla, Mumbai - MPCB",133,MODERATE
+Maharashtra,,"Malad West, Mumbai - IITM",134,MODERATE
+Maharashtra,,"Mazgaon, Mumbai - IITM",147,MODERATE
+Maharashtra,,"Mindspace-Malad West, Mumbai - MPCB",132,MODERATE
+Maharashtra,,"Mulund West, Mumbai - MPCB",113,MODERATE
+Maharashtra,,"Navy Nagar-Colaba, Mumbai - IITM",130,MODERATE
+Maharashtra,,"Powai, Mumbai - MPCB",67,SATISFACTORY
+Maharashtra,,"Sewri, Mumbai - BMC",128,MODERATE
+Maharashtra,,"Siddharth Nagar-Worli, Mumbai - IITM",138,MODERATE
+Maharashtra,,"Sion, Mumbai - MPCB",113,MODERATE
+Maharashtra,,"Vile Parle West, Mumbai - MPCB",139,MODERATE
+Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",188,MODERATE
+Maharashtra,,"Mahal, Nagpur - MPCB",186,MODERATE
+Maharashtra,,"Opp GPO Civil Lines, Nagpur - MPCB",218,POOR
+Maharashtra,,"Ram Nagar, Nagpur - MPCB",209,POOR
+Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",128,MODERATE
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",105,MODERATE
+Maharashtra,,"Hirawadi, Nashik - MPCB",141,MODERATE
+Maharashtra,,"Pandav Nagari, Nashik - MPCB",110,MODERATE
+Maharashtra,,"Kopripada-Vashi, Navi Mumbai - MPCB",107,MODERATE
+Maharashtra,,"Mahape, Navi Mumbai - MPCB",144,MODERATE
+Maharashtra,,"Nerul, Navi Mumbai - MPCB",187,MODERATE
+Maharashtra,,"Sanpada, Navi Mumbai - MPCB",202,POOR
+Maharashtra,,"Sector-2E Kalamboli, Navi Mumbai - MPCB",90,SATISFACTORY
+Maharashtra,,"Tondare-Taloja, Navi Mumbai - MPCB",124,MODERATE
+Maharashtra,Parbhani,"Masoom Colony, Parbhani - MPCB",124,MODERATE
+Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",142,MODERATE
+Maharashtra,,"Park Street Wakad, Pimpri Chinchwad - MPCB",163,MODERATE
+Maharashtra,,"Thergaon, Pimpri Chinchwad - MPCB",130,MODERATE
+Maharashtra,,"Bhumkar Nagar, Pune - IITM",282,POOR
+Maharashtra,,"Katraj Dairy, Pune - MPCB",137,MODERATE
+Maharashtra,,"Mhada Colony, Pune - IITM",145,MODERATE
+Maharashtra,,"Panchawati_Pashan, Pune - IITM",178,MODERATE
+Maharashtra,,"Revenue Colony-Shivajinagar, Pune - IITM",279,POOR
+Maharashtra,,"Savitribai Phule Pune University, Pune - MPCB",129,MODERATE
+Maharashtra,,"Transport Nagar-Nigdi, Pune - IITM",157,MODERATE
+Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",127,MODERATE
+Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",118,MODERATE
+Maharashtra,,"Ratandeep Housing Society, Solapur - MPCB",144,MODERATE
+Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",118,MODERATE
+Maharashtra,,"Upvan Fort, Thane - MPCB",129,MODERATE
+Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",141,MODERATE
+Maharashtra,Virar,"Bolinj, Virar - MPCB",121,MODERATE
+Meghalaya,,"Lumpyngngad, Shillong - Meghalaya PCB",11,GOOD
+Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",80,SATISFACTORY
+Nagaland,Kohima,"PWD Junction, Kohima - NPCB",75,SATISFACTORY
+Odisha,Angul,"Hakimapada, Angul - OSPCB",274,POOR
+Odisha,Balasore,"Kalidaspur, Balasore - OSPCB",317,VERY POOR
+Odisha,Barbil,"Forest Office, Barbil - OSPCB",166,MODERATE
+Odisha,Bhubaneswar,"Lingraj Mandir, Bhubaneswar - OSPCB",278,POOR
+Odisha,,"Patia, Bhubaneswar - OSPCB",235,POOR
+Odisha,Bileipada,"Tata Township, Bileipada - OSPCB",145,MODERATE
+Odisha,Byasanagar,"Ferro Chrome Colony, Byasanagar - OSPCB",271,POOR
+Odisha,Cuttack,"CDA Area, Cuttack - OSPCB",289,POOR
+Odisha,Keonjhar,"Jagamohanpur, Keonjhar - OSPCB",114,MODERATE
+Odisha,Nayagarh,"Dabuna, Nayagarh - OSPCB",130,MODERATE
+Odisha,Rairangpur,"Divisional Forest Office, Rairangpur - OSPCB",117,MODERATE
+Odisha,Rourkela,"Fertilizer Township, Rourkela - OSPCB",130,MODERATE
+Odisha,,"Raghunathpali, Rourkela - OSPCB",233,POOR
+Odisha,Suakati,"OMC Colony, Suakati - OSPCB",283,POOR
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",278,POOR
+Odisha,Tensa,"Barsua Iron Ore Mines, Tensa - OSPCB",123,MODERATE
+Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",84,SATISFACTORY
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",110,MODERATE
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",75,SATISFACTORY
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",97,SATISFACTORY
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",107,MODERATE
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",49,GOOD
+Punjab,Patiala,"Model Town, Patiala - PPCB",101,MODERATE
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",71,SATISFACTORY
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",128,MODERATE
+Rajasthan,Banswara,"Rati Talai, Banswara - RSPCB",90,SATISFACTORY
+Rajasthan,Baran,"Bamboliya, Baran - RSPCB",73,SATISFACTORY
+Rajasthan,Barmer,"Railway Colony, Barmer - RSPCB",121,MODERATE
+Rajasthan,Bharatpur,"Krishna Nagar, Bharatpur - RSPCB",114,MODERATE
+Rajasthan,Bhilwara,"Pratap Nagar, Bhilwara - RSPCB",119,MODERATE
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",289,POOR
+Rajasthan,,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",255,POOR
+Rajasthan,Bikaner,"MM Ground, Bikaner - RSPCB",172,MODERATE
+Rajasthan,Bundi,"New Colony, Bundi - RSPCB",129,MODERATE
+Rajasthan,Chittorgarh,"Shastri Nagar, Chittorgarh - RSPCB",147,MODERATE
+Rajasthan,Churu,"Subash Chowk, Churu - RSPCB",222,POOR
+Rajasthan,Dausa,"Khatikan Mohalla, Dausa - RSPCB",108,MODERATE
+Rajasthan,Dholpur,"Raja Ganj, Dholpur - RSPCB",115,MODERATE
+Rajasthan,Dungarpur,"Bhoiwada, Dungarpur - RSPCB",121,MODERATE
+Rajasthan,Hanumangarh,"Housing Board, Hanumangarh - RSPCB",138,MODERATE
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",158,MODERATE
+Rajasthan,,"Mansarovar Sector-12, Jaipur - RSPCB",190,MODERATE
+Rajasthan,,"Police Commissionerate, Jaipur - RSPCB",131,MODERATE
+Rajasthan,,"RIICO Sitapura, Jaipur - RSPCB",156,MODERATE
+Rajasthan,,"Sector-2 Murlipura, Jaipur - RSPCB",230,POOR
+Rajasthan,,"Shastri Nagar, Jaipur - RSPCB",193,MODERATE
+Rajasthan,Jaisalmer,"Sadar Bazar, Jaisalmer - RSPCB",108,MODERATE
+Rajasthan,Jalore,"Mudtra Sili, Jalore - RSPCB",194,MODERATE
+Rajasthan,Jhalawar,"Rajlaxmi Nagar, Jhalawar - RSPCB",147,MODERATE
+Rajasthan,Jhunjhunu,"Indra Nagar, Jhunjhunu - RSPCB",144,MODERATE
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",155,MODERATE
+Rajasthan,,"Digari Kalan, Jodhpur - RSPCB",163,MODERATE
+Rajasthan,,"Jhalamand, Jodhpur - RSPCB",157,MODERATE
+Rajasthan,,"Mandor, Jodhpur - RSPCB",193,MODERATE
+Rajasthan,,"Samrat Ashok Udhyan, Jodhpur - RSPCB",185,MODERATE
+Rajasthan,Karauli,"Satyawati Vihar, Karauli - RSPCB",97,SATISFACTORY
+Rajasthan,Kota,"Dhanmandi, Kota - RSPCB",114,MODERATE
+Rajasthan,,"Nayapura, Kota - RSPCB",110,MODERATE
+Rajasthan,,"Shrinath Puram, Kota - RSPCB",158,MODERATE
+Rajasthan,Nagaur,"Karni Colony, Nagaur - RSPCB",226,POOR
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",173,MODERATE
+Rajasthan,Pratapgarh,"Pragati Nagar, Pratapgarh - RSPCB",78,SATISFACTORY
+Rajasthan,Rajsamand,"Dhoinda, Rajsamand - RSPCB",136,MODERATE
+Rajasthan,Sawai Madhopur,"Sahu Nagar, Sawai Madhopur - RSPCB",90,SATISFACTORY
+Rajasthan,Sikar,"Radhakishan Pura, Sikar - RSPCB",217,POOR
+Rajasthan,Sirohi,"Vedhaynath Colony, Sirohi - RSPCB",98,SATISFACTORY
+Rajasthan,Sri Ganganagar,"Old City, Sri Ganganagar - RSPCB",144,MODERATE
+Rajasthan,Tonk,"Shastri Nagar, Tonk - RSPCB",162,MODERATE
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",115,MODERATE
+Tamil Nadu,,"Arumbakkam, Chennai - TNPCB",111,MODERATE
+Tamil Nadu,,"Kodungaiyur, Chennai - TNPCB",131,MODERATE
+Tamil Nadu,,"Manali Village, Chennai - TNPCB",91,SATISFACTORY
+Tamil Nadu,,"Manali, Chennai - CPCB",93,SATISFACTORY
+Tamil Nadu,,"Perungudi, Chennai - TNPCB",90,SATISFACTORY
+Tamil Nadu,,"Royapuram, Chennai - TNPCB",52,SATISFACTORY
+Tamil Nadu,,"Velachery Res. Area, Chennai - CPCB",100,SATISFACTORY
+Tamil Nadu,,"SIDCO Kurichi, Coimbatore - TNPCB",72,SATISFACTORY
+Tamil Nadu,Cuddalore,"Kudikadu, Cuddalore - TNPCB",68,SATISFACTORY
+Tamil Nadu,,"Semmandalam, Cuddalore - TNPCB",128,MODERATE
+Tamil Nadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",142,MODERATE
+Tamil Nadu,Karur,"Kamadenu Nagar, Karur - TNPCB",96,SATISFACTORY
+Tamil Nadu,Ooty,"Bombay Castel, Ooty - TNPCB",104,MODERATE
+Tamil Nadu,Perundurai,"SIPCOT Industrial Park, Perundurai - TNPCB",71,SATISFACTORY
+Tamil Nadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",68,SATISFACTORY
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",147,MODERATE
+Telangana,,"Central University, Hyderabad - TSPCB",116,MODERATE
+Telangana,,"ECIL Kapra, Hyderabad - TSPCB",67,SATISFACTORY
+Telangana,,"IDA Pashamylaram, Hyderabad - TSPCB",85,SATISFACTORY
+Telangana,,"Kokapet, Hyderabad - TSPCB",98,SATISFACTORY
+Telangana,,"Kompally Municipal Office, Hyderabad - TSPCB",86,SATISFACTORY
+Telangana,,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",83,SATISFACTORY
+Telangana,,"New Malakpet, Hyderabad - TSPCB",87,SATISFACTORY
+Telangana,,"Ramachandrapuram, Hyderabad - TSPCB",71,SATISFACTORY
+Telangana,,"Sanathnagar, Hyderabad - TSPCB",117,MODERATE
+Telangana,,"Somajiguda, Hyderabad - TSPCB",88,SATISFACTORY
+Telangana,,"Zoo Park, Hyderabad - TSPCB",129,MODERATE
+Tripura,Agartala,"Bardowali, Agartala - Tripura SPCB",63,SATISFACTORY
+Uttar Pradesh,Agra,"Manoharpur, Agra - UPPCB",127,MODERATE
+Uttar Pradesh,,"Rohta, Agra - UPPCB",152,MODERATE
+Uttar Pradesh,,"Sanjay Palace, Agra - UPPCB",226,POOR
+Uttar Pradesh,,"Sector-3B Avas Vikas Colony, Agra - UPPCB",157,MODERATE
+Uttar Pradesh,,"Shahjahan Garden, Agra - UPPCB",165,MODERATE
+Uttar Pradesh,,"Shastripuram, Agra - UPPCB",190,MODERATE
+Uttar Pradesh,,"Sardar Patel Inter College, Baghpat - UPPCB",201,POOR
+Uttar Pradesh,Bareilly,"Civil Lines, Bareilly - UPPCB",50,GOOD
+Uttar Pradesh,,"Rajendra Nagar, Bareilly - UPPCB",89,SATISFACTORY
+Uttar Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",227,POOR
+Uttar Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",87,SATISFACTORY
+Uttar Pradesh,,"Vibhab Nagar, Firozabad - UPPCB",91,SATISFACTORY
+Uttar Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",236,POOR
+Uttar Pradesh,,"Loni, Ghaziabad - UPPCB",272,POOR
+Uttar Pradesh,,"Sanjay Nagar, Ghaziabad - UPPCB",282,POOR
+Uttar Pradesh,,"Vasundhara, Ghaziabad - UPPCB",342,VERY POOR
+Uttar Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",68,SATISFACTORY
+Uttar Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",289,POOR
+Uttar Pradesh,,"Knowledge Park - V, Greater Noida - UPPCB",333,VERY POOR
+Uttar Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",218,POOR
+Uttar Pradesh,Jhansi,"Shivaji Nagar, Jhansi - UPPCB",62,SATISFACTORY
+Uttar Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",117,MODERATE
+Uttar Pradesh,,"NSI Kalyanpur, Kanpur - UPPCB",130,MODERATE
+Uttar Pradesh,,"Nehru Nagar, Kanpur - UPPCB",240,POOR
+Uttar Pradesh,Khurja,"Kalindi Kunj, Khurja - UPPCB",254,POOR
+Uttar Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",69,SATISFACTORY
+Uttar Pradesh,,"Gomti Nagar, Lucknow - UPPCB",142,MODERATE
+Uttar Pradesh,,"Kendriya Vidyalaya, Lucknow - CPCB",162,MODERATE
+Uttar Pradesh,,"Kukrail Picnic Spot-1, Lucknow - UPPCB",60,SATISFACTORY
+Uttar Pradesh,,"Lalbagh, Lucknow - CPCB",348,VERY POOR
+Uttar Pradesh,,"Talkatora District Industries Center, Lucknow - CPCB",165,MODERATE
+Uttar Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",160,MODERATE
+Uttar Pradesh,,"Jai Bhim Nagar, Meerut - UPPCB",306,VERY POOR
+Uttar Pradesh,,"Pallavpuram Phase 2, Meerut - UPPCB",262,POOR
+Uttar Pradesh,Moradabad,"Buddhi Vihar, Moradabad - UPPCB",89,SATISFACTORY
+Uttar Pradesh,,"Eco Herbal Park, Moradabad - UPPCB",116,MODERATE
+Uttar Pradesh,,"Employment Office, Moradabad - UPPCB",104,MODERATE
+Uttar Pradesh,,"Jigar Colony, Moradabad - UPPCB",98,SATISFACTORY
+Uttar Pradesh,,"Kashiram Nagar, Moradabad - UPPCB",97,SATISFACTORY
+Uttar Pradesh,,"Transport Nagar, Moradabad - UPPCB",75,SATISFACTORY
+Uttar Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",251,POOR
+Uttar Pradesh,Noida,"Sector - 125, Noida - UPPCB",312,VERY POOR
+Uttar Pradesh,,"Sector - 62, Noida - IMD",269,POOR
+Uttar Pradesh,,"Sector-1, Noida - UPPCB",311,VERY POOR
+Uttar Pradesh,,"Sector-116, Noida - UPPCB",310,VERY POOR
+Uttar Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",74,SATISFACTORY
+Uttar Pradesh,,"Motilal Nehru NIT, Prayagraj - UPPCB",72,SATISFACTORY
+Uttar Pradesh,,"Nagar Nigam, Prayagraj - UPPCB",56,SATISFACTORY
+Uttar Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",94,SATISFACTORY
+Uttar Pradesh,,"Bhelupur, Varanasi - UPPCB",51,SATISFACTORY
+Uttar Pradesh,,"IESD Banaras Hindu University, Varanasi - UPPCB",52,SATISFACTORY
+Uttar Pradesh,,"Maldahiya, Varanasi - UPPCB",55,SATISFACTORY
+Uttar Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",68,SATISFACTORY
+Uttarakhand,Dehradun,"Doon University, Dehradun - UKPCB",252,POOR
+Uttarakhand,Rishikesh,"Shivaji Nagar, Rishikesh - UKPCB",81,SATISFACTORY
+West Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",176,MODERATE
+West Bengal,,"Evelyn Lodge, Asansol - WBPCB",175,MODERATE
+West Bengal,,"Mahabir Colliery, Asansol - WBPCB",190,MODERATE
+West Bengal,,"Trivenidevi Bhalotia College, Asansol - WBPCB",185,MODERATE
+West Bengal,Barrackpore,"SVSPA Campus, Barrackpore - WBPCB",242,POOR
+West Bengal,Durgapur,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",162,MODERATE
+West Bengal,,"PCBL Residential Complex, Durgapur - WBPCB",133,MODERATE
+West Bengal,,"Womens College_City Center, Durgapur - WBPCB (Formerly known as Sidhu Kanhu Indoor Stadium)",155,MODERATE
+West Bengal,Haldia,"Priyambada Housing Estate, Haldia - WBPCB",199,MODERATE
+West Bengal,Howrah,"Belur Math, Howrah - WBPCB",224,POOR
+West Bengal,,"Botanical Garden, Howrah - WBPCB",177,MODERATE
+West Bengal,,"Dasnagar, Howrah - WBPCB",239,POOR
+West Bengal,,"Ghusuri, Howrah - WBPCB",285,POOR
+West Bengal,,"Padmapukur, Howrah - WBPCB",250,POOR
+West Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",241,POOR
+West Bengal,,"Bidhannagar, Kolkata - WBPCB",142,MODERATE
+West Bengal,,"Fort William, Kolkata - WBPCB",186,MODERATE
+West Bengal,,"Jadavpur, Kolkata - WBPCB",275,POOR
+West Bengal,,"Rabindra Bharati University, Kolkata - WBPCB",300,POOR
+West Bengal,,"Rabindra Sarobar, Kolkata - WBPCB",164,MODERATE
+West Bengal,,"Victoria, Kolkata - WBPCB",258,POOR
+West Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",148,MODERATE
